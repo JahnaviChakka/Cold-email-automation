@@ -32,7 +32,7 @@ def send_email(job_title, recipient_email):
     content = email_content.get(job_title, email_content['Data Analyst'])  # Default to Data Analyst if not found
 
     # Gmail credentials
-    username = 'jahnavic910@gmail.com'  # Your Gmail address
+    username = 'gudi'  # Your Gmail address
     password = 'ixzm pqdh jqjp xlci'    # Your App-Specific Password
 
     # Set up the email
